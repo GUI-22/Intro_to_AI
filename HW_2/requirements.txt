@@ -1,0 +1,4 @@
+torch==2.2.0
+transformers==4.38.2
+gensim==4.3.2
+jupyter==7.0.0
